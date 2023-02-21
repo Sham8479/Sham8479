@@ -154,7 +154,7 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhLfOymnr-2VjrhU
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLewFNhcsuOe4eJbNtkGfGBRE=DncS/dash-wv/jitp-linearwm/2606/default.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe3kwm9oIGKRGO7ilZDsnkcw=x4KG/dash-wv/jitp-linearwm/2606/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
