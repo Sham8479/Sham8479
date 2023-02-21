@@ -139,7 +139,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsA_K1KyG-nDrz5_UpHb1EE=1ZuP/dash-wv/jitp-linearwm/2402/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsss93YHWFtOH7zl6Q3Dw8c=2L2C/dash-wv/jitp-linearwm/2402/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna HD (SG)
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
@@ -149,7 +149,7 @@ https://tinyurl.com/5n6cd6bt|referer=https://iplogger.com/2VAkG5
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818",Astro Citra FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRnxW5_VUBgNtvp6Faeztjqs=NgXp/dash-wv/jitp-dashisowm/2700/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhLfOymnr-2VjrhUHD2ZdzM=pdln/dash-wv/jitp-dashisowm/2700/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
