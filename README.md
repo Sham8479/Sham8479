@@ -30,7 +30,8 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 #EXTM3U billed-msg="SELAMAT DATANG KE SHAM8479.. PERHATIAN‼️PLAYLIST INI PERCUMA.. DI LARANG MENJUAL BELI❗SILA REFUND JIKA TERBELI"
 
-*************************ISLAMIC*************************
+
+##################ISLAMIC#################
 
 #EXTINF:-1 group-title="Islamic" tvg-id="AlQuranAlKareemTV" tvg-logo="https://i.imgur.com/0aMNwQa.png",Al Quran Al Kareem FHD (Makkah)
 #EXTVLCOPT:network-caching=1000
@@ -40,7 +41,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qura
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sunnatvsa
 
-***********************MYFREEVIEW**********************
+################MYFREEVIEW################
 
 #EXTINF:-1 group-title="myFreeview" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -98,7 +99,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021/
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
-#EXTINF:-1 group-title="myFreeview" tvg-id="SukeTV" ch-number="116" tvg-logo="https://suketv.com/wp-content/uploads/2022/04/suketv-logo-color.png",Suke TV FHD
+#EXTINF:-1 group-title="myFreeview" tvg-id="SukeTV" ch-number="116" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV FHD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.youtube.com
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
@@ -118,7 +119,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
 
-*************************ASTRO*************************
+##################ASTRO###################
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -139,7 +140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsss93YHWFtOH7zl6Q3Dw8c=2L2C/dash-wv/jitp-linearwm/2402/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsA_K1KyG-nDrz5_UpHb1EE=1ZuP/dash-wv/jitp-linearwm/2402/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna HD (SG)
 #EXTVLCOPT:http-user-agent=com.iptvliink.net
@@ -149,12 +150,12 @@ https://tinyurl.com/5n6cd6bt|referer=https://iplogger.com/2VAkG5
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818",Astro Citra FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhLfOymnr-2VjrhUHD2ZdzM=pdln/dash-wv/jitp-dashisowm/2700/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRnxW5_VUBgNtvp6Faeztjqs=NgXp/dash-wv/jitp-dashisowm/2700/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe3kwm9oIGKRGO7ilZDsnkcw=x4KG/dash-wv/jitp-linearwm/2606/default.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLewFNhcsuOe4eJbNtkGfGBRE=DncS/dash-wv/jitp-linearwm/2606/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -176,7 +177,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-**************************UNIFI TV*********************
+##################UNIFI TV################
 
 #EXTINF:-1 group-title="Unifi TV" tvg-id="SalamHD" tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -208,19 +209,34 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-*************************MEDIACORP*************************
+###############MEDIACORP SG###############
 
-#EXTINF:-1 group-title="Mediacorp" tvg-id="Channel5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/440px-Mediacorp_Channel_5_2023.svg.png",Mediacorp 5 FHD
+#EXTINF:-1  tvg-id="Ch 5" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
-#EXTINF:-1 group-title="Mediacorp" tvg-id="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/1200px-Mediacorp_Suria_2023.svg.png",Mediacorp Suria FHD
+#EXTINF:-1 tvg-id="Ch 8" tvg-language="English" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
+https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
 
-*************************RTB GO************************
+#EXTINF:-1 tvg-id="Ch U" tvg-language="English" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
+https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
+
+#EXTINF:-1 tvg-id="Suria" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
+https://aqfadtv.xyz/live/mewatch/suria/index.mpd
+
+#EXTINF:-1 tvg-id="Vasantham" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
+https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
+
+##################RTB GO##################
 
 #EXTINF:-1 group-title="RTB Go" tvg-id="Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
 #EXTVLCOPT:network-caching=1000
@@ -234,7 +250,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-*************************CHINESE***********************
+#################CHINESE##################
 
 #EXTINF:-1 group-title="Chinese" tvg-id="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -261,7 +277,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 
-*************************INDIAN************************
+###################INDIAN#################
 
 #EXTINF:-1 group-title="Indian" tvg-id="ColorsHindi" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -284,7 +300,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
-************************JAPANESE***********************
+#################JAPANESE#################
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528" group-title="Japanese",Nippon TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
@@ -319,7 +335,7 @@ https://sub.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Japanese",Jidaigeki Senmon Channel (540p)
 
 
-*************************KOREAN************************
+###################KOREAN#################
 
 #EXTINF:-1 group-title="Korean" tvg-id="KBSWorld" ch-number="392" tvg-logo="https://www.logolynx.com/images/logolynx/s_83/830a24e3e253625edff8233b668520ae.jpeg",KBS World FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -346,7 +362,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-**********************ENTERTAINMENT********************
+###############ENTERTAINMENT##############
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="AXN" ch-number="701" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -393,12 +409,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
-**********************TOEI TOKUSATSU********************
+################TOEI TOKUSATSU############
 
 #EXTINF:-1 tvg-chno="2430" tvg-id="TokuSHOUTsu" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Toei Tokusatsu",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2430&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-*************************ANIME*************************
+####################ANIME#################
 
 #EXTINF:-1 group-title="Anime" tvg-id="Animax" ch-number="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -409,9 +425,8 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2360&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png" group-title="Anime",CONtv Anime
-https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
 
-**************************KIDS*************************
+###################KIDS###################
 
 #EXTINF:-1 group-title="Kids" tvg-id="Dreamworks" ch-number="612' tvg-logo="https://www.dreamworks-asia.com/images/dwalogo.png", Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -443,7 +458,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
-*************************MOVIES************************
+###################MOVIES#################
 
 #EXTINF:-1 group-title="Movies" tvg-id="HITSMovies" ch-number="401" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -480,7 +495,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-*************************NEWS**************************
+####################NEWS##################
 
 #EXTINF:-1 group-title="News" tvg-id="BeritaRTM" ch-number="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM FHD
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -494,7 +509,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 #EXTINF:-1 group-title="News" tvg-id="BernamaTV" ch-number="502" tvg-logo="https://bernama.com/bm/img/bernama.png",BERNAMA FHD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
-*************************SPORTS************************
+###################SPORTS#################
 
 #EXTINF:-1 group-title="Sports" tvg-id="AstroArena" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -535,7 +550,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 #EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-*********************RADIO YOUTUBE********************
+###############RADIO YOUTUBE##############
 
 #EXTINF:-1 group-title="Radio Youtube" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
@@ -555,7 +570,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
 #EXTINF:-1 group-title="Radio Youtube" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://molekfm.com/wp-content/uploads/2022/01/RADIO-MOLEK-FM-GU-PANTAI-TIMUR-MOLEKFM.COM-RADIO-ONLINE-ASZ-SUCCESS-TRADE-RESOURCES-AMALKEBAJIKAN.png",MOLEK FM HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",MOLEK FM HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
 #EXTINF:-1 group-title="Radio Youtube" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN HD
@@ -582,13 +597,12 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MIX.m3u8
 #EXTINF:-1 group-title="Radio Youtube" tvg-id="MELODY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Melody.m3u8
 
-#EXTINF:-1 group-title="Radio Youtube" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://media2.fishtank.my/app_themes/goxuan/assets/images/landscape_goxuan.png",GOXUAN HD
+#EXTINF:-1 group-title="Radio Youtube" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.xyz/logos/GoXuan2022.png",GOXUAN HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
 
 #EXTINF:-1 group-title="Radio Youtube" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA HD
 
-
-*********************RADIO SWASTA********************
+###############RADIO SWASTA###############
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
@@ -608,7 +622,7 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 https://astro3.rastream.com/gegar
 
-#EXTINF:-1 group-title="Radio Swasta" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://molekfm.com/wp-content/uploads/2022/01/RADIO-MOLEK-FM-GU-PANTAI-TIMUR-MOLEKFM.COM-RADIO-ONLINE-ASZ-SUCCESS-TRADE-RESOURCES-AMALKEBAJIKAN.png",MOLEK FM
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="MOLEKFM" ch-number="725" tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png",MOLEK FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
@@ -619,9 +633,6 @@ https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="MANISFM" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",MANIS FM
 https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqfhg
-
-#EXTINF:-1 group-title="Radio Swasta" tvg-id="CLASSICROCK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/SYOK_Classic_Rock.png/revision/latest?cb=20211106123041",CLASSIC ROCK ASIA
-https://astro4.rastream.com/rock?type=mp3
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="FLYFM" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",FLY FM
 https://mediaprima.rastream.com/mediaprima-flyfm
@@ -644,11 +655,14 @@ https://astro2.rastream.com/mix
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
 https://astro3.rastream.com/melody
 
-#EXTINF:-1 group-title="Radio Swasta" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://media2.fishtank.my/app_themes/goxuan/assets/images/landscape_goxuan.png",GOXUAN
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.xyz/logos/GoXuan2022.png",GOXUAN
 https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzU3NjM4NjUsImlhdCI6MTY3NTY3NzQ2NSwib2lkIjoiZXJhLXlvdXR1YmUifQ.gTe2n-wy9O2Nq9MTRmyUTdV2odACVVuS2rWgqhedeEc&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Agoxuan&listenerid=dd330dca4396b75bd95482efe7877006&lan=%5B%22zh%22%5D&setLanguage=true
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
 https://astro3.rastream.com/raaga
+
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="CLASSICROCK" ch-number="860" tvg-logo="https://aqfadtv.xyz/logos/SyokClassicRock2021.png",SYOK CLASSIC ROCK
+https://astro4.rastream.com/rock
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="GOLD" ch-number="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",SYOK GOLD
 https://astro4.rastream.com/gold
@@ -659,7 +673,7 @@ https://astro4.rastream.com/opus
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="INDIA" ch-number="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",SYOK INDIA BEAT
 https://astro4.rastream.com/india
 
-#EXTINF:-1 group-title="Radio Swasta" tvg-id="JAZZ" ch-number="865" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",SYOK JAZZ
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.xyz/logos/SyokJazz2021.png",SYOK JAZZ
 https://astro4.rastream.com/jazz
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="OSAI" ch-number="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",SYOK OSAI
@@ -668,8 +682,11 @@ https://astro4.rastream.com/osai
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",SYOK BAYU
 https://astro4.rastream.com/bayu
 
-#EXTINF:-1 group-title="Radio Swasta" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",SYOK KENYALANG
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.xyz/logos/SyokKenyalang2021.png",SYOK KENYALANG
 https://astro4.rastream.com/kenyalang
+
+#EXTINF:-1 group-title="Radio Swasta" tvg-id="988" ch-number="988" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/988_Logo_-_Transparent.png/640px-988_Logo_-_Transparent.png",988
+http://22283.live.streamtheworld.com/988_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA SABAH
 https://astro2.rastream.com/amp-era-kk
@@ -689,7 +706,7 @@ https://astro1.rastream.com/amp-myfm-kk
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/My_FM_Sarawak_2018.png/revision/latest?cb=20211113091627",MY SARAWAK
 https://astro1.rastream.com/amp-myfm-kch
 
-*********************RADIO NASIONAL********************
+###############RADIO NASIONAL#############
 
 #EXTINF:-1 tvg-id="RadioKlasik" channel id="RTMK09" group-title="Radio Nasional" radio="true" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",RADIO KLASIK
 https://23733.live.streamtheworld.com/RADIO_KLASIKAAC.aac
@@ -709,7 +726,7 @@ https://22243.live.streamtheworld.com/MINNAL_FMAAC.aac
 #EXTINF:-1 tvg-id="AsyikFM" channel id="RTMK14" group-title="Radio Nasional" radio="true" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png",ASYIK FM
 https://23733.live.streamtheworld.com/ASYIK_FMAAC.aac
 
-*********************RADIO NEGERI********************
+###############RADIO NEGERI###############
 
 #EXTINF:-1 tvg-id="PerlisFM" channel id="RTMK29" group-title="Radio Negeri" radio="true" tvg-logo="https://perlisfm.rtm.gov.my/storage/app/uploads/public/606/49d/f60/60649df60c210090408790.png",PERLIS FM
 https://22243.live.streamtheworld.com/PERLIS_FMAAC.aac
@@ -756,7 +773,7 @@ https://23693.live.streamtheworld.com/SABAH_FMAAC.aac
 #EXTINF:-1 tvg-id="SabahVFM" channel id="RTMK16" group-title="Radio Negeri" radio="true" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png",SABAH VFM
 https://22243.live.streamtheworld.com/SABAH_VFMAAC.aac
 
-*********************RADIO DAERAH********************
+#################RADIO DAERAH#############
 
 #EXTINF:-1 tvg-id="LangkawiFM" channel id="RTMK34" group-title="Radio Daerah" radio="true" tvg-logo="https://langkawifm.rtm.gov.my/storage/app/uploads/public/606/a94/09b/606a9409b3cc1196501923.png",LANGKAWI FM
 https://22243.live.streamtheworld.com/LANGKAWI_FMAAC.aac
@@ -767,7 +784,7 @@ https://22243.live.streamtheworld.com/LABUAN_FMAAC.aac
 #EXTINF:-1 tvg-id="WaiFMIban" channel id="RTMK32" group-title="Radio Daerah" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png",WAI FM IBAN
 https://22243.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
-#EXTINF:-1 tvg-id="WaiFMBKA"                  group-title="Radio Daerah" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png",WAI FM BK
+#EXTINF:-1 tvg-id="WaiFMBKA" channel id="RTMK32" group-title="Radio Daerah" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png",WAI FM BK
 https://22243.live.streamtheworld.com/WAI_FM_BKAAC.aac
 
 #EXTINF:-1 tvg-id="RedFM" channel id="RTMK33" group-title="Radio Daerah" radio="true" tvg-logo="https://redfm.rtm.gov.my/storage/app/uploads/public/607/69e/81b/60769e81bf9e6583637788.jpg",RED FM
@@ -797,72 +814,24 @@ https://22243.live.streamtheworld.com/TAWAU_FMAAC.aac
 #EXTINF:-1 tvg-id="KeningauFM" channel id="RTMK42" group-title="Radio Daerah" radio="true" tvg-logo="https://keningaufm.rtm.gov.my/storage/app/uploads/public/606/927/0c8/6069270c871dd542240709.png",KENINGAU FM
 https://22243.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
-*********************RADIO ONLINE********************
+###############RADIO ONLINE###############
 
 #EXTINF:-1 group-title="Radio Online" tvg-id="RLROCKJIWANG" tvg-logo="https://radiolagenda.net/wp-content/uploads/2021/01/RL-Rock-Jiwang-e1616985537138.png",RL ROCK JIWANG
 https://rlrockjiwang.radioca.st/stream
 http://procyon.shoutca.st:8346/stream/1/
 http://198.50.156.92:8346/stream
 
+#EXTINF:-1 group-title="Radio Online" tvg-id="RLBBEST" tvg-logo="https://radiolagenda.net/wp-content/uploads/2021/01/photo_2021-01-01_17-53-48-removebg-preview-e1616985696169.png",RL B BEST
+https://rlbbest.radioca.st/stream
+
 #EXTINF:-1 group-title="Radio Online" tvg-id="MYFRIENDFM" tvg-logo="http://myfriend.fm/assets/images/whatsapp-image-2022-06-21-at-6.40.34-pm-photoroom-228x167.png",MY FRIEND.FM
 https://cast3.asurahosting.com/proxy/myfriend/stream
 
-#EXTINF:-1 group-title="Radio Online" tvg-id="MELAYUKLASIK" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fxj7GACWCdz5jx3nWzCbSR8dfwilQ4DjWR0YU8SXDTAk%2Frs%3Afit%3A268%3A268%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUR3NjlyVy1Bc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3cTgzWTFRZ01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9MjY4eDI2OCZ1cGRhdGVkPTE2NjE4ODE0NzMwMDA.webp&w=640&q=75",MELAYU KLASIK
+#EXTINF:-1 group-title="Radio Online" tvg-id="MELAYUKLASIK" tvg-logo="https://aqfadtv.xyz/logos/MelayuKlasik.png",MELAYU KLASIK
 https://stream.zeno.fm/4s44thh7yf9uv
 
-#EXTINF:-1 group-title="Radio Online" tvg-id="QURAN" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FPcXxtxeEpGqkFtGkykJTiaEay9DBNaQ9C9QP52B8t8c%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUR3NjlyVy1Bc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3bDUzeWhBc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE5MjYyODEwMDA.webp&w=1080&q=75",Quran.
+#EXTINF:-1 group-title="Radio Online" tvg-id="QURAN" tvg-logo="https://aqfadtv.xyz/logos/Quran.png",Quran.
 http://node-15.zeno.fm:80/tny4226nachvv
-
-*************************WAYANG************************
-
-#EXTINF:-1 group-title="Malay Movie" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg",MAT KILAU (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Mat.Kilau.2022.NF.WEBDL.1080p.MSA.EAC3.H.264-AstradaMY.mkv
-
-#EXTINF:-1 group-title="Japan Movie" type="movie" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/4/41/Super_Hero_key_visual.jpg/revision/latest?cb=20211214221253",DRAGON BALL SUPER SUPER HERO (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Dragon.Ball.Super.Super.Hero.2022.1080p.HDTS.MalaySub-OMG.mp4
-
-#EXTINF:-1 group-title="Malay Movie" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE0NWU3NmMtNWYwMC00ZDQ0LWExOGUtMjUxNDQzNjljNGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg",AIRFORCE THE MOVIE (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Airforce.The.Movie.Selagi.Bernyawa.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
-
-#EXTINF:-1 group-title="Malay Movie" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY2YWUxMzktOWQ3Mi00YjRkLWE1MmMtNWQwODJmYWUyZjhmXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_.jpg",RAJAWALI (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Rajawali.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
-
-#EXTINF:-1 group-title="Malay Movie" type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfD4PryUQDbh-MT75oPT5AtIgpeaojGXEUDVkDshdcWhPrxp0qBWSa75L0OuQftgHSTGQk8YFBC7Aq_SDROlRMOSadB6clbdffcP3g6hWd21N40TftSS_CoJdxBTxHUFVaXAZxRpdYFc0U7wxQNiKgqUwnUe8AH9XTo5O0GYKUczuIxPPIzstV35_I/s1074/filem%20melayu%202022%20-%20abang%20long%20fadil%203.jpg",Abang Long Fadil 3 (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Abang.Long.Fadil.3.2022.1080p.AOTG.WEB-DL.H264.AAC-AstradaMY.mp4
-
-#EXTINF:-1 group-title="Japan Movie" type="movie" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/b7d494804d41e91efa50947b9221e04a1647481608_main.jpg",Shin Ultraman (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Shin.Ultraman.2022.JAPANESE.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkevr7xNI06Mhty417R8NvgaG-rfH8eRwZJg&usqp=CAU", Man of Steel
-http://www.deadlyblogger.com/NewRelease/steel.mp4
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmHfZD5hQylKsFe1pi79ZnHOZrsDxVe9sMQ&usqp=CAU", Zack Snyders Justice League (2021)
-https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion2/1sementara-ja/Justice%20League%20-%20Synder%20Cut%20(2021)3.mp4
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XH4g120.jpg", Batman The Dark Knight (2008)
-https://lh3.googleusercontent.com/OXw9QDYThjRhY7mIZzzjgcFY1d1hudDPWrwprmb3QtQsBXgBlgZL3Xs4l_4pvPsQ2vaGWMgQ3cuNJetvVA=m22
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Rcv5gXU.jpg", Batman The Dark Knight Rises (2012)
-https://lh3.googleusercontent.com/0i7CSFHiP0E_NHl1dEFKdpqCNkSGWtDP3tOQQxjDvr_oSauAkn8_8E30twpKn20WKTZuVOuLGKznk9CqNQ=m22
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY3M2I0YzItNzA1ZS00MzE3LThlYTEtMTg2YjNiOTYzODQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,678,1000_AL_.jpg", Batman Forever (1995)
-https://ndelok.cf/?redirect=QXiQWYvxmb39GZiwSZ1JHdsICcwgDMxICLiMXV0Nne4Vmd4NzbiwiIrF3YPRUOJZERwEDZIJXeRdkbZtEcxhWSmZEZEdUOEBnNCl3VfRmaBZnTBl0QBR2XPdTWLNzYO1mc0MVQTNmeoNDdmZGemplWZFWb1o2QYVlaCBVYTNEVEdWSBJ1dBh3XDNzRB1zZpNHbmwGcskmdtxidtxyctxibtxSbtxCat1zctFmchB3csZSP9cWZHREcxE0VslFOkVDdJJETLBlUvlVN0InNxVTRV1GMwZzTnF0aBFzNwRWQpFkdxUmaIdGNtdXUYh2UiN1TwF3QKdkVKlTWkZ0NaFlekdXNWlVY4dEdNRHUBhWSRJ1d4oUUwE3TB1zZpNnJ01GbsIXdkxidyBHL2JHc2xSZtlWbsAHchxCZpVmdpJHZsM2c1NHLsRHdsw2czVmcpVXclJHLlNmc192cscWY0lGLklGLwNGLwlGLpVGLlJXawhXZ9MXbhJXYwNnJxkTO1IjMyQjNx0DdtZSO3UzN3ETN4UzN3kTO5UTM9QXbsZyMyUjL1kjM30jc1RmJx0jdyBnJx0jdyBndmQDct9yblRWa21TZtlWbmIXZy9GbwhXZ9AHchZiU6FGUDZTc0YnUtclWmhXdzdTUyg0ZJ5kNVJ3bhp3dRFTPklWZ2lmckZick1zYzV3cmQnbll2cuFmc01Db0RnJ0ITPsBnJ00Ta21mJt1jdtZSdz1zctZSe34WZl92Z10ibz1jbtZiMz0TbtZiaK1DatZycllXPsN3clJXa1FXZyZSZ2lmckJWZ31TZjJXdvNnJ3MTPnFGdpZyYzAjZ4cTZ5YzYiFWY5gDO9QWamM2VRBlVzQGeztmYQZFWU9UNwIWNVdUVYxGRXBlVtllN41mV3FEVl9GcyU1S5wGZLpVMYFWOyolTo12TQhGbSBFaxQlZOVkVKJlVR1DcjZyN24yM1EjLwITMuczM9AXamMWQ5NXZ0NHURR3dohEODBHUllVaMJzN9kWZmUTM4ADNyIDN2ETPlJXawhXZ/s2YhJWehxGcvVGZpZ3Lt92YuUGbn92bn5SZ2lmck5yYuk3NuVWZvdWNt42ct0SL0Incv8iOzBHd0hmIsIyUwhVWR50aOhnUqR2UxknVhp1RlFjTz4kUKR0Uux2aUJTVsNmdG1WZzYkVNJyW
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qmer6G5_pz4o7kZYspfPKlCfJHAOrBgPDA&usqp=CAU", Aquaman
-http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg", Wonder Woman
-https://cdn.jwplayer.com/manifests/nNjeV7v1.m3u8
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Wonder_Woman_1984_poster.png", Wonder Woman 1984
-https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/index.m3u8
-
-#EXTINF:-1 group-title="DC Movie" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Black_Adam_%28film%29_poster.jpg",Black Adam (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/Black.Adam.2022/Black.Adam.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-EVO.mkv
-
-#EXTINF:-1 group-title="Hollywood Movie" type="movie" tvg-logo="https://i.ebayimg.com/images/g/oCwAAOSwpqJiolw9/s-l1600.jpg",Top Gun Maverick (2022)
-https://onedrive.astradamy.com/api/raw/?path=/Movies/top.gun.maverick.2022.korsub.imax.1080p.webrip.hevc.x265.rmteam.mkv
-
 
 
 
