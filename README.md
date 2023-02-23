@@ -424,6 +424,14 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 tvg-chno="2360" tvg-id="Anime All Day" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime" group-title="Gaming + Anime",Anime All Day
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2360&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="" group-title="Anime" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png",Aniplus
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+# http://axcestv.vip:8080/@harris/utEYY7kAGj/549
+http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
+# http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157611
+
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png" group-title="Anime",CONtv Anime
 
 ###################KIDS###################
@@ -533,14 +541,9 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqgaczNpgvO1ZvBH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 
-
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 FHD 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-
-
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 FHD
-http://skylogic.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/157558
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 group-title="Sports" tvg-id="WWENetwork" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
