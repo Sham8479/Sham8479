@@ -31,7 +31,7 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 #EXTM3U billed-msg="SELAMAT DATANG KE SHAM8479.. PERHATIAN‼️PLAYLIST INI PERCUMA.. DI LARANG MENJUAL BELI❗SILA REFUND JIKA TERBELI"
 
 
-##################ISLAMIC#################
+################## ISLAMIC #################
 
 #EXTINF:-1 group-title="Islamic" tvg-id="AlQuranAlKareemTV" tvg-logo="https://i.imgur.com/0aMNwQa.png",Al Quran Al Kareem FHD (Makkah)
 #EXTVLCOPT:network-caching=1000
@@ -41,7 +41,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qura
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sunnatvsa
 
-################MYFREEVIEW################
+################ MY FREEVIEW ################
 
 #EXTINF:-1 group-title="myFreeview" tvg-id="TV1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +119,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
 
-##################ASTRO###################
+################## ASTRO ###################
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -139,33 +139,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRt0LlBxxRGFxvosE5iQINNk=3y2m/dash-wv/jitp-linearwm/2402/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsVmcK3fJ6oeGfB1EupqAnc=4o83/dash-wv/jitp-linearwm/2402/default.mpd
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna HD (SG)
-#EXTVLCOPT:http-user-agent=com.iptvliink.net
-#EXTVLCOPT:http-Icy-MetaData=1
-https://tinyurl.com/5n6cd6bt|referer=https://iplogger.com/2VAkG5
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818",Astro Citra HD
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818",Astro Citra FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRs6p1b4QCl1N36gGWJ_UXDg=bnu7/dash-wv/jitp-dashisowm/2700/default.mpd
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default.mpd
+#EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria HD
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://w.nasvpn.xyz:8080/saya/saya/177.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
-
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi HD
-#EXTVLCOPT:http-user-agent=com.iptvliink.net
-#EXTVLCOPT:http-Icy-MetaData=1
-https://tinyurl.com/jj9ccxbh|referer=https://iplogger.com/2VAkG5
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRania" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -177,7 +164,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-##################UNIFI TV################
+################## UNIFI TV ################
 
 #EXTINF:-1 group-title="Unifi TV" tvg-id="SalamHD" tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png",Salam HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -209,7 +196,7 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-###############MEDIACORP SG###############
+############### MEDIACORP SG ###############
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,7 +223,7 @@ https://aqfadtv.xyz/live/mewatch/suria/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
 https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
 
-##################RTB GO##################
+################## RTB GO ##################
 
 #EXTINF:-1 group-title="RTB Go" tvg-id="Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
 #EXTVLCOPT:network-caching=1000
@@ -250,7 +237,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#################CHINESE##################
+################# CHINESE ##################
 
 #EXTINF:-1 group-title="Chinese" tvg-id="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -277,7 +264,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 
-###################INDIAN#################
+################### INDIAN #################
 
 #EXTINF:-1 group-title="Indian" tvg-id="ColorsHindi" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -300,7 +287,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 
-#################JAPANESE#################
+################# JAPANESE #################
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528" group-title="Japanese",Nippon TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
@@ -335,7 +322,7 @@ https://sub.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Japanese",Jidaigeki Senmon Channel (540p)
 
 
-###################KOREAN#################
+################### KOREAN #################
 
 #EXTINF:-1 group-title="Korean" tvg-id="KBSWorld" ch-number="392" tvg-logo="https://www.logolynx.com/images/logolynx/s_83/830a24e3e253625edff8233b668520ae.jpeg",KBS World FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -362,7 +349,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-###############ENTERTAINMENT##############
+############### ENTERTAINMENT ##############
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="AXN" ch-number="701" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -409,12 +396,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
-################TOEI TOKUSATSU############
+################ TOEI TOKUSATSU ############
 
 #EXTINF:-1 tvg-chno="2430" tvg-id="TokuSHOUTsu" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Toei Tokusatsu",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2430&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-####################ANIME#################
+#################### ANIME #################
 
 #EXTINF:-1 group-title="Anime" tvg-id="Animax" ch-number="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -434,7 +421,7 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png" group-title="Anime",CONtv Anime
 
-###################KIDS###################
+################### KIDS ###################
 
 #EXTINF:-1 group-title="Kids" tvg-id="Dreamworks" ch-number="612' tvg-logo="https://www.dreamworks-asia.com/images/dwalogo.png", Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -466,7 +453,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
-###################MOVIES#################
+################### MOVIES #################
 
 #EXTINF:-1 group-title="Movies" tvg-id="HITSMovies" ch-number="401" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -493,17 +480,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-id="HBOFamily" ch-number="414" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272223019%27&EntityType=%27Item%27&EntityId=%2797147%27&Width=1920&Height=1280",HBO Family FHD
+#EXTINF:-1 group-title="Movies" tvg-id="414" tvg-name="HBO Family" ch-number="414" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO Family FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-id="HBOHits" ch-number="415" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits FHD
+#EXTINF:-1 group-title="Movies" tvg-id="415" tvg-name="HBO Hits" ch-number="415" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-####################NEWS##################
+#################### NEWS ##################
 
 #EXTINF:-1 group-title="News" tvg-id="BeritaRTM" ch-number="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM FHD
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -517,7 +504,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 #EXTINF:-1 group-title="News" tvg-id="BernamaTV" ch-number="502" tvg-logo="https://bernama.com/bm/img/bernama.png",BERNAMA FHD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
-###################SPORTS#################
+################### SPORTS #################
 
 #EXTINF:-1 group-title="Sports" tvg-id="AstroArena" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -553,7 +540,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 #EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-###############RADIO YOUTUBE##############
+############### RADIO YOUTUBE ##############
 
 #EXTINF:-1 group-title="Radio Youtube" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA HD
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
@@ -605,7 +592,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
 
 #EXTINF:-1 group-title="Radio Youtube" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA HD
 
-###############RADIO SWASTA###############
+############### RADIO SWASTA ###############
 
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="SURIA" ch-number="958" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png",SURIA
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
@@ -709,7 +696,7 @@ https://astro1.rastream.com/amp-myfm-kk
 #EXTINF:-1 group-title="Radio Swasta" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/My_FM_Sarawak_2018.png/revision/latest?cb=20211113091627",MY SARAWAK
 https://astro1.rastream.com/amp-myfm-kch
 
-###############RADIO NASIONAL#############
+############### RADIO NASIONAL #############
 
 #EXTINF:-1 tvg-id="RadioKlasik" channel id="RTMK09" group-title="Radio Nasional" radio="true" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",RADIO KLASIK
 https://23733.live.streamtheworld.com/RADIO_KLASIKAAC.aac
@@ -729,7 +716,7 @@ https://22243.live.streamtheworld.com/MINNAL_FMAAC.aac
 #EXTINF:-1 tvg-id="AsyikFM" channel id="RTMK14" group-title="Radio Nasional" radio="true" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png",ASYIK FM
 https://23733.live.streamtheworld.com/ASYIK_FMAAC.aac
 
-###############RADIO NEGERI###############
+############### RADIO NEGERI ###############
 
 #EXTINF:-1 tvg-id="PerlisFM" channel id="RTMK29" group-title="Radio Negeri" radio="true" tvg-logo="https://perlisfm.rtm.gov.my/storage/app/uploads/public/606/49d/f60/60649df60c210090408790.png",PERLIS FM
 https://22243.live.streamtheworld.com/PERLIS_FMAAC.aac
@@ -776,7 +763,7 @@ https://23693.live.streamtheworld.com/SABAH_FMAAC.aac
 #EXTINF:-1 tvg-id="SabahVFM" channel id="RTMK16" group-title="Radio Negeri" radio="true" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png",SABAH VFM
 https://22243.live.streamtheworld.com/SABAH_VFMAAC.aac
 
-#################RADIO DAERAH#############
+################# RADIO DAERAH #############
 
 #EXTINF:-1 tvg-id="LangkawiFM" channel id="RTMK34" group-title="Radio Daerah" radio="true" tvg-logo="https://langkawifm.rtm.gov.my/storage/app/uploads/public/606/a94/09b/606a9409b3cc1196501923.png",LANGKAWI FM
 https://22243.live.streamtheworld.com/LANGKAWI_FMAAC.aac
@@ -817,7 +804,7 @@ https://22243.live.streamtheworld.com/TAWAU_FMAAC.aac
 #EXTINF:-1 tvg-id="KeningauFM" channel id="RTMK42" group-title="Radio Daerah" radio="true" tvg-logo="https://keningaufm.rtm.gov.my/storage/app/uploads/public/606/927/0c8/6069270c871dd542240709.png",KENINGAU FM
 https://22243.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
-###############RADIO ONLINE###############
+############### RADIO ONLINE ###############
 
 #EXTINF:-1 group-title="Radio Online" tvg-id="RLROCKJIWANG" tvg-logo="https://radiolagenda.net/wp-content/uploads/2021/01/RL-Rock-Jiwang-e1616985537138.png",RL ROCK JIWANG
 https://rlrockjiwang.radioca.st/stream
