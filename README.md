@@ -195,29 +195,29 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-############### MEDIACORP SG ###############
+############### MEDIACORP ###############
 
-#EXTINF:-1  tvg-id="Ch 5" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
+#EXTINF:-1  tvg-id="Ch 5" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
 https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-language="English" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 
+#EXTINF:-1 tvg-id="Ch 8" tvg-language="English" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel8
 https://aqfadtv.xyz/live/mewatch/channel8/index.mpd
 
-#EXTINF:-1 tvg-id="Ch U" tvg-language="English" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U 
+#EXTINF:-1 tvg-id="Ch U" tvg-language="English" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channelu
 https://aqfadtv.xyz/live/mewatch/channelu/index.mpd
 
-#EXTINF:-1 tvg-id="Suria" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria 
+#EXTINF:-1 tvg-id="Suria" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
 https://aqfadtv.xyz/live/mewatch/suria/index.mpd
 
-#EXTINF:-1 tvg-id="Vasantham" group-title="Mediacorp SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham 
+#EXTINF:-1 tvg-id="Vasantham" group-title="Mediacorp" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/vasantham
 https://aqfadtv.xyz/live/mewatch/vasantham/index.mpd
