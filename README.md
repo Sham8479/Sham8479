@@ -35,7 +35,7 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 #EXTINF:-1 group-title="Islamic" tvg-id="AlQuranAlKareemTV" tvg-logo="https://i.postimg.cc/d3LmTG2G/al-quran-al-kareem-tv.png",Al Quran Al Kareem FHD (Makkah)
 #EXTVLCOPT:network-caching=1000
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qurantvsa
+https://edge.taghtia.com/sa/7.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-id="AlSunnahAlNabawiyahTV" tvg-logo="https://i.imgur.com/84nqj99.png",Al Sunnah Al Nabawiyah FHD (Medina)
 #EXTVLCOPT:network-caching=1000
