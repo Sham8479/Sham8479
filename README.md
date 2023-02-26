@@ -39,7 +39,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qura
 
 #EXTINF:-1 group-title="Islamic" tvg-id="AlSunnahAlNabawiyahTV" tvg-logo="https://i.imgur.com/84nqj99.png",Al Sunnah Al Nabawiyah FHD (Medina)
 #EXTVLCOPT:network-caching=1000
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sunnatvsa
 
 ################ MY FREEVIEW ################
 
