@@ -479,7 +479,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-id="414" tvg-name="HBO Family" ch-number="414" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO Family FHD
+#EXTINF:-1 group-title="Movies" tvg-id="414" tvg-name="HBO Family" ch-number="414" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
