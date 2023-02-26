@@ -316,7 +316,7 @@ https://sub.neetball.net/live/neet.m3u8
 
 
 #EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610" group-title="Japanese",Toei Channel (540p) [Not 24/7]
-
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Japanese",Jidaigeki Senmon Channel (540p)
 
