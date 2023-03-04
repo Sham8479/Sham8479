@@ -318,10 +318,6 @@ https://sub.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/mEERmXh.png" group-title="Japanese",Kids Station (540p) [Not 24/7]
 
-
-#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610" group-title="Japanese",Toei Channel (540p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Japanese",Jidaigeki Senmon Channel (540p)
 
 
@@ -401,6 +397,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
 ################ TOEI TOKUSATSU ############
 
+#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610" group-title="Toei Tokusatsu",Toei Channel (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="2430" tvg-id="TokuSHOUTsu" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Toei Tokusatsu",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2430&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -415,6 +414,9 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2360&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="" group-title="Anime" tvg-logo="https://i.ibb.co/98rWW4t/Aniplus-Asia-Logo.png",Aniplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://103.167.167.5:8111/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png" group-title="Anime",CONtv Anime
