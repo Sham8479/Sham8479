@@ -139,19 +139,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRvmJadmWhhwtn80v_pGvpgU=RPCq/dash-wv/jitp-linearwm/2402/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRio35zxecjgf3G46keTOvWk=Zdsh/dash-wv/jitp-linearwm/2402/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCitra" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818",Astro Citra FHD
 ##EXTVLCOPT:http-user-agent=com.iptvlin k.net
 ##http://w.nasvpn.xyz:8080/saya/saya/172.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRseF1m8ASsLtv_SPf08X_zM=xrwH/dash-wv/jitp-dashisowm/2700/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRpuj23LxupeDIVZfq8bPr6A=__uC/dash-wv/jitp-dashisowm/2700/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroCeria" ch-number="611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe0ZDbKfyWPjIqxNGOkX4lS4=xTmU/dash-wv/jitp-linearwm/2606/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroSensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi HD
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
@@ -319,9 +319,6 @@ https://sub.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/mEERmXh.png" group-title="Japanese",Kids Station (540p) [Not 24/7]
 
 
-#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610" group-title="Japanese",Toei Channel (540p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Japanese",Jidaigeki Senmon Channel (540p)
 
 
@@ -400,6 +397,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
 ################ TOEI TOKUSATSU ############
+
+#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Toie_110x94.png/revision/latest?cb=20130912185610" group-title="Toei Tokusatsu",Toei Channel (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2430" tvg-id="TokuSHOUTsu" tvg-name="TokuSHOUTsu" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Toei Tokusatsu",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2430&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -525,7 +525,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRqgaczNpgvO1ZvBHO2qyrR4=sRZp/dash-wv/jitp-linearwm/601/default.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://no2.onlinewebtv.lol/ddy1/premium123/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
