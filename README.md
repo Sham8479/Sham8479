@@ -777,7 +777,7 @@ https://22243.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 #EXTINF:-1 tvg-id="WaiFMBKA" channel id="RTMK32" group-title="Radio Daerah" radio="true" tvg-logo="https://waifmiban.rtm.gov.my/storage/app/uploads/public/608/0cc/e1b/6080cce1bf429907468608.png",WAI FM BK
 https://22243.live.streamtheworld.com/WAI_FM_BKAAC.aac
 
-#EXTINF:-1 tvg-id="RedFM" channel id="RTMK33" group-title="Radio Daerah" radio="true" tvg-logo="https://redfm.rtm.gov.my/storage/app/uploads/public/607/69e/81b/60769e81bf9e6583637788.jpg",RED FM
+#EXTINF:-1 tvg-id="RedFM" channel id="RTMK33" group-title="Radio Daerah" radio="true" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/RedFM.png",RED FM
 https://22243.live.streamtheworld.com/RED_FMAAC.aac
 
 #EXTINF:-1 tvg-id="LimbangFM" channel id="RTMK35" group-title="Radio Daerah" radio="true" tvg-logo="https://limbangfm.rtm.gov.my/storage/app/uploads/public/608/0c5/ce0/6080c5ce08d34398629693.png",LIMBANG FM
